@@ -1,4 +1,4 @@
-# Project2
+# Crowdfunding ETL Project
 
 ## Create the Category and Subcategory DataFrames
 
